@@ -1,7 +1,7 @@
 header {
  text-align:center; 
 }
- img-intro {
+ .img-intro {
 border:1px solid black;
 border-radius:20px; 
 }
