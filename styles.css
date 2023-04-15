@@ -1,7 +1,6 @@
 header {
  text-align:center; 
 }
-
 .img-intro {
   border: 1px solid black;
   border-radius: 50em;
@@ -10,5 +9,13 @@ header {
 body{
  background-color:#272727;
  color:#fff;
- 
+}
+nav ul{
+display:inline;
+
+}
+
+nav ul li {
+    display: none;
+   
 }
