@@ -2,7 +2,7 @@ header {
  text-align:center; 
 }
 .img-intro {
-  border: 1px solid black;
+  border: 1px solid #fff;
   border-radius: 50em;
   width: 25em;
 }
