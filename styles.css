@@ -14,8 +14,9 @@ body{
 display:inline;
 
 } */
-
 nav ul li {
     list-style: none;
     display: inline-block;
+    font-size: 2em;
+    padding: 0 1em;
 }
