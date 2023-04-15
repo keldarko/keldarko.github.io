@@ -14,10 +14,9 @@ body{
  color:#fff;
  font-family: 'Quicksand', sans-serif;
 }
-/* nav ul{
-display:inline;
-
-} */
+nav{
+margin-top:1em;
+}
 nav ul li {
     list-style: none;
     display: inline-block;
