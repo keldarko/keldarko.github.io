@@ -10,12 +10,12 @@ body{
  background-color:#272727;
  color:#fff;
 }
-nav ul{
+/* nav ul{
 display:inline;
 
-}
+} */
 
 nav ul li {
-    display: none;
-   
+    list-style: none;
+    display: inline-block;
 }
